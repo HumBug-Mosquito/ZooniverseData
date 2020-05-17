@@ -6,7 +6,7 @@ The `notebooks` folder contains two files: `metadata.ipynb` contains instruction
 
 We strongly recommend using the processed audio in non-overlapping 1 second segments, as the aggregation has been performed for the four recording groups. The votes supplied in `audio_1sec.csv` are given in the categories `{yes, no, not_sure}`.
 
-The data is available to download at <humbug.ac.uk/Zooniverse_audio_1sec.zip> for the 1 second segments, and at <humbug.ac.uk/Zooniverse_audio_2sec.zip> for the overlapping original data. The wave files should be extracted to create the paths: ```ZooniverseData/data/audio_1sec``` and ```ZooniverseData/data/Zoo_segment```.
+The data is available to download at <http://humbug.ac.uk/Zooniverse_audio_1sec.zip> for the 1 second segments, and at <http://humbug.ac.uk/Zooniverse_audio_2sec.zip> for the overlapping original data. The wave files should be extracted to create the paths: ```ZooniverseData/data/audio_1sec``` and ```ZooniverseData/data/Zoo_segment```.
 
 
 The required packages for reproducing the code are given in the first cell of each notebook. This code has been tested in:
